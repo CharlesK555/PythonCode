@@ -39,7 +39,7 @@ class Automobile:
     
 #end class Automobile        
 
-class Truck(Automobile):
+#class Truck(Automobile):
     
     #TODO
     #Page 557
